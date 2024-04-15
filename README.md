@@ -51,7 +51,7 @@ Arachni is heading towards obsolescence, try out its next-gen successor
     </tr>
 </table>
 
-![Arachni logo](http://www.arachni-scanner.com/large-logo.png)
+![Arachni logo](.github/images/arachni.png)
 
 ## Synopsis
 
